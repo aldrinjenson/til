@@ -18,9 +18,17 @@ Use this cool tool:
 
 `export PATH="<your drag term folder path>:$PATH"`
 
-
-
 ### Usage:
 
 `drag <filename>`
+
+### Bonus
+
+If you are using `ranger` or some other CLI based file manager, you can easily add support to dragging from terminal using `dragterm` with a key-map as follows:
+
+```bash
+map <C-d> shell drag %p
+```
+
+Paste the above to `.config/ranger/rc.conf` to map ctrl+d to drag a file from ranger&#x20;
 
