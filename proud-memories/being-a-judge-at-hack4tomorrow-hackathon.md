@@ -12,13 +12,13 @@ From participating in hackathons to Organizing them to now finally Judging one!
 
 
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>With Rindish Krishna, Afnan, Vishruth, and Abid Omar - my fellow judges. Cool people</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>With Rindish Krishna, Afnan, Vishruth, and Abid Omar - my fellow judges. Cool people</p></figcaption></figure>
 
 
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 
 

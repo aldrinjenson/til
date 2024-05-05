@@ -13,11 +13,8 @@
 
 ## Proud Memories
 
-* [LLM Workshop](proud-memories/llm-workshop.md)
+* [Conducting an LLM Workshop](proud-memories/llm-workshop.md)
 * [Honours degree from Education Minister](proud-memories/honours-degree-from-education-minister.md)
 * [GIDS Conference Participant from TW](proud-memories/gids-conference-participant-from-tw.md)
 * [Speaking at MEC.Conf](proud-memories/speaking-at-mec.conf.md)
-
-***
-
-* [Being a judge at Hack4Tomorrow hackathon](being-a-judge-at-hack4tomorrow-hackathon.md)
+* [Being a judge at Hack4Tomorrow hackathon](proud-memories/being-a-judge-at-hack4tomorrow-hackathon.md)
