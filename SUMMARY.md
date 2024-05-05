@@ -10,3 +10,8 @@
 ## Minimum Effort
 
 * [Virtual Talking AI companion to help out in tough times](minimum-effort/virtual-gf.md)
+
+## Proud Memories
+
+* [LLM Workshop](proud-memories/llm-workshop.md)
+* [Honours degree from Education Minister](proud-memories/honours-degree-from-education-minister.md)
