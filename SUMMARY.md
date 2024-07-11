@@ -18,3 +18,7 @@
 * [GIDS Conference Participant from TW](proud-memories/gids-conference-participant-from-tw.md)
 * [Speaking at MEC.Conf](proud-memories/speaking-at-mec.conf.md)
 * [Being a judge at Hack4Tomorrow hackathon](proud-memories/being-a-judge-at-hack4tomorrow-hackathon.md)
+
+***
+
+* [Different options for doing LLM inference](different-options-for-doing-llm-inference.md)
