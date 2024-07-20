@@ -1,6 +1,7 @@
 # Table of contents
 
 * [TIL](README.md)
+  * [Changing Git Commit Email Address](readme/changing-git-commit-email-address.md)
 * [Different options for doing LLM inference](different-options-for-doing-llm-inference.md)
 * [Generate Subtitles locally using whisper](generate-subtitles-locally-using-whisper.md)
 * [Compressing images from the CLI](compressing-images-from-the-cli.md)
