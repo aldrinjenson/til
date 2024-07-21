@@ -11,6 +11,7 @@
 
 ## Minimum Effort
 
+* [YouTube Transcript Formatter](minimum-effort/youtube-transcript-formatter.md)
 * [Virtual Talking AI companion to help out in tough times](minimum-effort/virtual-gf.md)
 * [Super fast voice based translation system](minimum-effort/super-fast-voice-based-translation-system.md)
 
