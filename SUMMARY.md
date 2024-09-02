@@ -7,6 +7,7 @@
 * [Running parallel Ollama inference](running-parallel-ollama-inference.md)
 * [Fetching Train availability in IRCTC](fetching-train-availability-in-irctc.md)
 * [Changing Git Commit Email Address](changing-git-commit-email-address.md)
+* [Clone any website to local using Httrack](clone-any-website-to-local-using-httrack.md)
 * [Adding Drag drop from terminal in Mac OS](adding-drag-drop-from-terminal-in-mac-os.md)
 
 ## Minimum Effort
